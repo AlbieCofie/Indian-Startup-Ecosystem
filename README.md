@@ -83,8 +83,9 @@ pd.set_option('display.max_rows', None)
 # Data Loading
 Here is the section to load the datasets (train, eval, test) and the additional files
 
-```
+
 #### Load 2018 Data  
+```
 # For CSV, use pandas.read_csv
 
 #import the 2018 dataset 
@@ -108,21 +109,42 @@ startup_funding_2018['Funding Year'] = "2018"
 
 startup_funding_2018['Funding Year'] = startup_funding_2018['Funding Year'].astype(int)
 ```
+
+
 ```
 #check the shape of the dataset 
 startup_funding_2018.shape 
 ```
-#check the first 100 records of the dataset 
+![2018 dataset shape](./images/2018shape.png)
+
+```
+#check the first 5 records of the dataset 
 startup_funding_2018.head() 
+```
+![2018 top 5 columns](./images/2018top.png)
+```
 #check if there are any Null Values
 startup_funding_2018.isna().any()
+```
+![Checking for Null values](./images/2018null.png)
+
 There are no null values in the 2018 dataset 
+
+
+```
 #Strip the location data to only the city-area. 
 startup_funding_2018['Location'] = startup_funding_2018.Location.str.split(',').str[0]
 startup_funding_2018['Location'].head()
+```
+![Strip Locations in 2018](./images/2018location.png)
+
+```
 #get index of rows where 'Amount' column is in rupeess
 get_index = startup_funding_2018.index[startup_funding_2018['Amount'].str.contains('₹')]
-This will be used later when changing all the ringits to dollars
+```
+This will be used later when changing all the rupees to dollars
+
+```
 #Check the summary information about the 2018 dataset 
 startup_funding_2018.info()
 #To convert the column to a numerical one, there the need to remove some symbols including commas and currency
