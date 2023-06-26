@@ -16,7 +16,7 @@ India has one of the world's fastest expanding economies. We have witnessed a hu
 
 ## Description
 
-# Importance of Project  
+### Importance of Project  
 
 The objective of this project is to give insights to key stakeholders interested in venturing into the Indian startup ecosystem. To achieve this, we will be analyzing key metrics in funding received by startups in India from 2018 to 2021. These insights will be used by Management to make informed business decisions.
 
