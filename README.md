@@ -18,7 +18,7 @@ India has one of the world's fastest expanding economies. We have witnessed a hu
 
 ## Importance of Project  
 
-TThe objective of this project is to give insights to key stakeholders interested in venturing into the Indian startup ecosystem. To achieve this, we will be analyzing key metrics in funding received by startups in India from 2018 to 2021. These insights will be used by Management to make informed business decisions.
+The objective of this project is to give insights to key stakeholders interested in venturing into the Indian startup ecosystem. To achieve this, we will be analyzing key metrics in funding received by startups in India from 2018 to 2021. These insights will be used by Management to make informed business decisions.
 
 # Dataset Description -
 
@@ -28,16 +28,6 @@ The data for this project is in a csv format. The following describes the column
 | ----------- | ----------------------------------------------------------------------------- |
 | Company/Brand          | Name of the Company/Startup
                                         |
-| Founded         | Year start-up was founded |                                                                 |
-| What it does         | Description of the Company                                                         |                                                  
-| Founders          | Founders of the Company                                                         |
-| Investor          | Investors                                                       |
-| TS          | False  | Blood Work Result-3 (mu U/ml)                                                 |
-| M11         | False  | Body mass index (weight in kg/(height in m)^2                                 |
-| BD2         | False  | Blood Work Result-4 (mu U/ml)                                                 |
-| Age         | False  | patients age (years)                                                          |
-| Insurance   | N/A    | If a patient holds a valid insurance card                                     |
-| Sepssis     | True   | Positive: if a patient in ICU will develop a sepsis , and Negative: otherwise |
 
 ## Setup
 
