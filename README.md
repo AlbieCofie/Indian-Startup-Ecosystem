@@ -1,6 +1,5 @@
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/AlbieCofie?tab=repositories)
 [![View My Profile](https://img.shields.io/badge/MEDIUM-Article-purple?logo=Medium)](https://medium.com/@albiecofie2000/indian-startup-ecosystem-which-industry-is-more-likely-to-get-funding-d00222ee47ff)
-
 [![Website](https://img.shields.io/badge/My-Website-darkgreen)](https://albiecofie2000.wixsite.com/home)
 
 
