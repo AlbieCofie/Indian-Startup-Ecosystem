@@ -16,7 +16,7 @@ India has one of the world's fastest expanding economies. We have witnessed a hu
 
 ## Description
 
-## Importance of Project  
+# Importance of Project  
 
 The objective of this project is to give insights to key stakeholders interested in venturing into the Indian startup ecosystem. To achieve this, we will be analyzing key metrics in funding received by startups in India from 2018 to 2021. These insights will be used by Management to make informed business decisions.
 
@@ -62,3 +62,20 @@ The both long command-lines have a same structure, they pipe multiple commands u
 4. **Install the required libraries/packages** listed in the `requirements.txt` file so that it will be allow to import them into the python's scripts and notebooks without any issue.
 
 **NB:** For MacOs users, please install `Xcode` if you have an issue.
+
+## Resources
+
+Here are some resources you would read to have a good understanding of libraries that were imported in this project :
+
+Numpy: https://numpy.org/doc/stable/user/absolute_beginners.html.
+Pandas: https://www.educative.io/answers/what-is-pandas-in-python.
+NLTK: https://www.nltk.org.
+Matplotlib.pyplot: How to Install Matplotlib in Python? — Scaler Topicshttps://www.scaler.com › topics › install-matplotlib
+
+## 👏 Support
+
+If you found this article helpful, please give it a clap or a star on GitHub!
+
+## Author
+
+- [Alberta Cofie](https://www.linkedin.com/in/alberta-cofie-32203881/)
